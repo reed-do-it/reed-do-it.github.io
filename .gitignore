@@ -1,0 +1,6 @@
+# Jekyll (from Github template)
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
